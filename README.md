@@ -1,3 +1,3 @@
 # column
 TABLE EXERCISE-
-click here to deploy: https://ash-dci.github.io/column/
+click here to deploy:  https://ashraftajuddin.github.io/dci-digitalcourse-column-html/.
